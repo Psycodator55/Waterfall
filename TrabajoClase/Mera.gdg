@@ -65,10 +65,7 @@
             <resource alwaysLoaded="false" file="Animación gota/Sin título-18.png" kind="image" name="Sin título-18.png" smoothed="false" userAdded="false" />
             <resource alwaysLoaded="false" file="Animación gota/gfndfgsad.png" kind="image" name="gfndfgsad.png" smoothed="true" userAdded="true" />
             <resource alwaysLoaded="false" file="Animación gota/bala.png" kind="image" name="bala.png" smoothed="true" userAdded="true" />
-            <resource alwaysLoaded="false" file="CharB2.png" kind="image" name="CharB2.png" smoothed="true" userAdded="false" />
             <resource alwaysLoaded="false" file="Diseños y personajes/b92201ce77bd25c.png" kind="image" name="b92201ce77bd25c.png" smoothed="true" userAdded="true" />
-            <resource alwaysLoaded="false" file="images.jpg" kind="image" name="images.jpg" smoothed="true" userAdded="true" />
-            <resource alwaysLoaded="false" file="8b55cf654c0e6f4bfdf0ddf0d167f2a2.jpg" kind="image" name="8b55cf654c0e6f4bfdf0ddf0d167f2a2.jpg" smoothed="true" userAdded="true" />
             <resource alwaysLoaded="false" file="Diseños y personajes/Sin título-3.jpg" kind="image" name="Sin título-3.jpg" smoothed="true" userAdded="true" />
             <resource alwaysLoaded="false" file="Nueva carpeta/R1.png" kind="image" name="R1.png" smoothed="true" userAdded="false" />
             <resource alwaysLoaded="false" file="Nueva carpeta/R2.png" kind="image" name="R2.png" smoothed="true" userAdded="false" />
@@ -148,9 +145,6 @@
             <resource alwaysLoaded="false" file="Animaciones barra de vida/frasquitos/frascos_2.png" kind="image" name="frascos_2.png" smoothed="false" userAdded="false" />
             <resource alwaysLoaded="false" file="Animaciones barra de vida/frasquitos/frascos_3.png" kind="image" name="frascos_3.png" smoothed="false" userAdded="true" />
             <resource alwaysLoaded="false" file="Fondos y plataformas/quiller_zone.png" kind="image" name="quiller_zone.png" smoothed="true" userAdded="false" />
-            <resource alwaysLoaded="false" file="carbón/Carbón_1.png" kind="image" name="Carbón_1.png" smoothed="false" userAdded="false" />
-            <resource alwaysLoaded="false" file="carbón/Carbón_2.png" kind="image" name="Carbón_2.png" smoothed="false" userAdded="true" />
-            <resource alwaysLoaded="false" file="carbón/Carbón_3.png" kind="image" name="Carbón_3.png" smoothed="false" userAdded="true" />
             <resource alwaysLoaded="false" file="Fondos y plataformas/zona_5.png" kind="image" name="zona_5.png" smoothed="false" userAdded="false" />
             <resource alwaysLoaded="false" file="Fondos y plataformas/zona_6.png" kind="image" name="zona_6.png" smoothed="false" userAdded="true" />
             <resource alwaysLoaded="false" file="Fondos y plataformas/zona_7.png" kind="image" name="zona_7.png" smoothed="false" userAdded="false" />
@@ -2233,7 +2227,7 @@
             <behaviorsSharedData />
         </layout>
         <layout b="209" disableInputWhenNotFocused="true" mangledName="Tutorial" name="Tutorial" oglFOV="90.000000" oglZFar="500.000000" oglZNear="1.000000" r="209" standardSortMethod="true" stopSoundsOnStartup="true" title="" v="209">
-            <uiSettings grid="false" gridB="255" gridG="180" gridHeight="32" gridOffsetX="0" gridOffsetY="0" gridR="158" gridWidth="32" snap="true" windowMask="false" zoomFactor="0.747321" />
+            <uiSettings grid="false" gridB="255" gridG="180" gridHeight="32" gridOffsetX="0" gridOffsetY="0" gridR="158" gridWidth="32" snap="true" windowMask="false" zoomFactor="0.521448" />
             <objectsGroups>
                 <group name="Skins">
                     <objects>
@@ -2329,7 +2323,7 @@
                     <stringProperties />
                     <initialVariables />
                 </instance>
-                <instance angle="0.000000" customSize="true" height="19978.556641" layer="Fondo" locked="false" name="NuevoObjeto7" width="42452.445312" x="-10078.047852" y="-5761.032227" zOrder="1">
+                <instance angle="0.000000" customSize="true" height="19978.556641" layer="Fondo" locked="false" name="NuevoObjeto7" width="42452.445312" x="-10029.875977" y="-5767.722656" zOrder="1">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
@@ -2839,7 +2833,7 @@
                     <stringProperties />
                     <initialVariables />
                 </instance>
-                <instance angle="0.000000" customSize="true" height="2053.229980" layer="" locked="false" name="zona_relleno" width="1023.187988" x="5980.888184" y="-1326.035522" zOrder="48">
+                <instance angle="0.000000" customSize="true" height="2053.229980" layer="" locked="false" name="zona_relleno" width="1023.187988" x="5982.806152" y="-1326.035522" zOrder="48">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
@@ -3211,7 +3205,7 @@
                     <stringProperties />
                     <initialVariables />
                 </instance>
-                <instance angle="0.000000" customSize="true" height="19978.556641" layer="Fondo" locked="false" name="NuevoObjeto7" width="26326.865234" x="3929.844238" y="-8289.214844" zOrder="1">
+                <instance angle="0.000000" customSize="true" height="19978.556641" layer="Fondo" locked="false" name="NuevoObjeto7" width="26326.865234" x="3925.829590" y="-8291.890625" zOrder="1">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
@@ -3403,7 +3397,7 @@
                     <stringProperties />
                     <initialVariables />
                 </instance>
-                <instance angle="0.000000" customSize="true" height="599.327026" layer="" locked="false" name="zona_18" width="1046.989990" x="16581.025391" y="-712.318787" zOrder="78">
+                <instance angle="0.000000" customSize="true" height="599.327026" layer="" locked="false" name="zona_18" width="1046.989990" x="16577.191406" y="-712.318787" zOrder="78">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
